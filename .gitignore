@@ -1,0 +1,12 @@
+# Sixsided Dice Simulator
+# .gitignore
+
+.vs/
+
+__pycache__/
+env/
+
+*.lock
+*.pyproj
+*.sln
+/*.txt
